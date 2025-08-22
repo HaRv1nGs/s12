@@ -1,4 +1,4 @@
-name: pre_sprint12
+name: s12
 on: push
 jobs:
   test:
